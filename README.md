@@ -15,5 +15,5 @@
 <a href="https://twitter.com/tech_kool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tech_kool" height="30" width="30" /></a>
 <a href="https://fb.com/4in1telecom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="4in1telecom" height="30" width="30" /></a>
 <a href="https://instagram.com/tookooltech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tookooltech" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/4-in-1 telecommunications" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="4-in-1 telecommunications" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCisaZsQWaf6c7k4KjqiDkuQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="4-in-1 telecommunications" height="30" width="30" /></a>
 </p>
