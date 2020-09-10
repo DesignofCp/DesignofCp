@@ -17,9 +17,14 @@
 <p><a href="https://www.facebook.com/4in1telecom/">
 <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
 
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designofcp&layout=compact&hide=html" alt="designofcp" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=designofcp&show_icons=true" alt="designofcp" /></p>
-
-
-
 
 
