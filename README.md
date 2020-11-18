@@ -14,9 +14,6 @@
 - 🌱 I’m currently learning **Swift and SwiftUi**
 
 
-<p align="center"><a href="https://twitter.com/tech_kool">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-
 <a href="https://www.instagram.com/tookooltech/">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
