@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DesignofCp</h1>
-<h3 align="center"> iOS Developer ● Where Web App Design & Development happens!</h3>
+<h3 align="center"> iOS Developer ● Where Web App Design & Development Happens!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=designofcp&label=Profile%20views&color=0e75b6&style=flat" alt="designofcp" /> </p>
