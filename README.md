@@ -4,12 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=designofcp&label=Profile%20views&color=0e75b6&style=flat" alt="designofcp" /> </p>
 
+<p align="center">
 <a href="https://www.instagram.com/tookooltech/">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
 <a href="https://www.facebook.com/4in1telecom/">
 <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> </p>
 
+<p align="center">
+<a href='https://play.google.com/store/apps/dev?id=4751255961033617633&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=59.12/></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=designofcp" alt="designofcp" /></a> </p>
 
